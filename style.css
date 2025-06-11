@@ -33,3 +33,12 @@ button:hover:focus{
     position: absolute;
     top: auto; right: auto;}
 
+body {
+    background-color: gray;
+}
+
+div {
+    background-color: darkred;
+    border-radius: 3%;
+}
+

@@ -23,3 +23,8 @@ img {
 body {
     background-color:gray;
 }
+
+button:hover:focus{
+    background-color: green;
+    color: yellow;
+}

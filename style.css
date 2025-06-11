@@ -9,3 +9,9 @@ img {
     width: 120px;
     border-radius: 50%;
 }
+
+.filmes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
